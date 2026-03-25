@@ -29,6 +29,8 @@ I'm Ziad from Egypt 🇪🇬<br><br>
 
 <h3 align="left">🛠 Language and tools</h3>
 
+
+
 ###
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo" />
@@ -49,6 +51,9 @@ I'm Ziad from Egypt 🇪🇬<br><br>
 ###
 
 <h3 align="left">🔥   My Stats :</h3>
+
+
+
 
 ###
 <div align="center">
